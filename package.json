@@ -1,6 +1,6 @@
 {
   "name": "@ln-zap/eslint-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reusable eslint configs used in Zap projects",
   "scripts": {},
   "repository": {
