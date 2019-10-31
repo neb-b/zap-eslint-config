@@ -53,6 +53,7 @@ module.exports = {
     "react/prefer-stateless-function": 0,
     "react/require-default-props": 0,
     "react/sort-prop-types": "error",
+    "react/state-in-constructor": ['error', 'never'],
     'react/static-property-placement': ['error', 'static public field'],
     "react/style-prop-object": 0,
     "import/no-extraneous-dependencies": 0,
