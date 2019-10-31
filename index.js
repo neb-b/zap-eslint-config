@@ -46,6 +46,7 @@ module.exports = {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-filename-extension": ["error", { extensions: [".js", ".jsx"] }],
+    "react/jsx-props-no-spreading": 0,
     "react/jsx-sort-props": "error",
     "react/no-array-index-key": 0,
     "react/no-did-mount-set-state": 0,
