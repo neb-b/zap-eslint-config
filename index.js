@@ -37,7 +37,6 @@ module.exports = {
         ]
       }
     ],
-    "comma-dangle": ["error", "always-multiline"],
     // 'prettier/prettier': 0,
     "react/boolean-prop-naming": [
       "error",
