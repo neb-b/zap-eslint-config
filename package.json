@@ -18,25 +18,26 @@
     "url": "https://github.com/LN-Zap/zap-eslint-config/issues"
   },
   "homepage": "https://github.com/LN-Zap/zap-eslint-config",
-  "dependencies": {
-    "eslint-config-airbnb": "18.0.1",
-    "eslint-config-prettier": "6.5.0"
-  },
   "peerDependencies": {
-    "babel-eslint": "10.0.3",
-    "eslint": ">= 6",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "@babel/core": "^7.14.6",
+    "@babel/eslint-parser": "^7.14.7",
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-react-app": "^6.0.0",
     "eslint-formatter-pretty": "^2.1.1",
     "eslint-plugin-compat": "^3.3.0",
-    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jest": "^23.0.2",
     "eslint-plugin-jsdoc": "^17.0.1",
     "eslint-plugin-json": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-markdown": "^1.0.1",
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.16.0",
-    "eslint-plugin-react-hooks": "^2.2.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-unused-imports": "^1.1.1",
     "prettier": ">= 1"
   }
 }
